@@ -1,6 +1,6 @@
 # awesome-code-interviews-kr
 
-코딩 인터뷰 기록
+코딩 인터뷰 스터디 기록
 
 ## Table of Contents ##
 - [2021-08](2021-08)
