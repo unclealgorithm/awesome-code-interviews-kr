@@ -12,7 +12,7 @@
 
 ## 2021-08
 ### 2021-08-21
-- https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/776/
+- https://leetcode.com/problems/3sum/
 - https://leetcode.com/problems/lru-cache/
 - https://leetcode.com/problems/restore-ip-addresses/
 - https://leetcode.com/problems/next-greater-node-in-linked-list/
