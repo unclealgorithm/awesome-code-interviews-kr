@@ -7,10 +7,12 @@
 - [2021-09](2021-09)
 - [2021-10](2021-10)
 - [2021-11](2021-11)
+- [2021-12](2021-12)
+- [2022-01](2022-01)
 
 ---
 
-## 2021-08
+##2021-08
 ### 2021-08-21
 - https://leetcode.com/problems/3sum/
 - https://leetcode.com/problems/lru-cache/
@@ -23,7 +25,7 @@
 - https://leetcode.com/problems/4sum-ii/
 - https://leetcode.com/problems/rotate-array/
 
-## 2021-09
+##2021-09
 ### 2021-09-05
 - https://leetcode.com/problems/median-of-two-sorted-arrays/
 - https://leetcode.com/problems/longest-substring-without-repeating-characters/
@@ -35,7 +37,7 @@
 - https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/
 - https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/
 
-## 2021-10
+##2021-10
 ### 2021-10-02
 - https://leetcode.com/problems/keys-and-rooms/
 - https://leetcode.com/problems/search-a-2d-matrix-ii/
@@ -60,7 +62,7 @@
 - https://leetcode.com/problems/decode-ways/
 - https://leetcode.com/problems/open-the-lock/
 
-## 2021-11
+##2021-11
 ### 2021-11-06
 - https://leetcode.com/problems/insert-into-a-binary-search-tree/
 - https://leetcode.com/problems/number-of-islands/
@@ -72,3 +74,34 @@
 - https://leetcode.com/problems/delete-leaves-with-a-given-value/
 - https://leetcode.com/problems/word-search-ii/
 - https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/
+
+
+### 2021-11-21
+- https://leetcode.com/problems/group-anagrams/
+- https://leetcode.com/problems/k-closest-points-to-origin/
+- https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/
+- https://leetcode.com/problems/largest-divisible-subset/
+
+##2021-12
+
+### 2021-12-11
+- https://leetcode.com/problems/partition-labels/
+- https://leetcode.com/problems/domino-and-tromino-tiling/
+- https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
+- https://leetcode.com/problems/sum-of-subarray-minimums/
+
+##2022-01
+
+### 2021-01-08
+- https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/
+- https://leetcode.com/problems/insert-delete-getrandom-o1/
+- https://leetcode.com/problems/palindrome-partitioning/
+- https://leetcode.com/problems/car-pooling/
+
+### 2021-01-16
+- https://leetcode.com/problems/design-a-stack-with-increment-operation/
+- https://leetcode.com/problems/game-of-life/
+- https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
+- https://leetcode.com/problems/maximize-distance-to-closest-person/
+
+																										
