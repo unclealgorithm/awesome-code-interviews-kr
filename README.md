@@ -9,6 +9,7 @@
 - [2021-11](#2021-11)
 - [2021-12](#2021-12)
 - [2022-01](#2022-01)
+- [2022-02](#2022-02)
 
 ---
 
@@ -104,4 +105,23 @@
 - https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
 - https://leetcode.com/problems/maximize-distance-to-closest-person/
 
-																										
+### 2021-01-22
+- https://leetcode.com/problems/insert-into-a-binary-search-tree/
+- https://leetcode.com/problems/number-of-good-ways-to-split-a-string/
+- https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
+- https://leetcode.com/problems/gas-station/
+
+## 2022-02
+
+### 2022-02-05
+- https://leetcode.com/problems/perfect-squares/
+- https://leetcode.com/problems/binary-tree-pruning/
+- https://leetcode.com/problems/contiguous-array/
+- https://leetcode.com/problems/find-all-anagrams-in-a-string/
+
+### 2022-02-12
+- https://leetcode.com/problems/product-of-array-except-self/
+- https://leetcode.com/problems/linked-list-cycle-ii/
+- https://leetcode.com/problems/map-sum-pairs/
+- https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
+- https://leetcode.com/problems/k-diff-pairs-in-an-array/
